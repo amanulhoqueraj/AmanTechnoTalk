@@ -34,3 +34,12 @@ For understanding design patterns better it is very important to have basic know
 •	Classes
 •	Abstract classes
 
+SOLID
+----------------------
+S : Single Responsibility Principle (SRP) --Class And      I interface
+O : Open closed Principle (OSP) -------Abstract
+L :  Liskov substitution Principle (LSP) 
+I  :  Interface Segregation Principle (ISP) --Intarface
+D : Dependency Inversion Principle (DIP)
+
+
